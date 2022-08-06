@@ -1,4 +1,4 @@
-# Forecasting Time Series Data with Prophet
+# Data Science project - Forecasting Time Series Data with Prophet
 
 #### Import modules
 
